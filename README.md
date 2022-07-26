@@ -2,14 +2,21 @@
 
 An application that allows employees to submit feedback toward each other’s performance.<br>                                                       
 An employee can register, only admin can make an employee an admin.<br>
-Admin view
+
+<b>Dummy Admin credentials</b>
+<ul>
+<li>Email : admin@gmail.com</li>
+<li>Password : 654321</li>
+</ul>
+
+<b>Admin view</b>
 <ul>
   <li>Add/remove/update/view employees</li>
   <li>Add/update/view performance reviews</li>
   <li>Assign employees to participate in another employee's performance review</li>
 </ul>
 
-Employee view
+<b>Employee view</b>
 <ul>
   <li>List of performance review requiring feedback</li>
    <li>Submit feedback</li>
